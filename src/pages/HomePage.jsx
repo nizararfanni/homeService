@@ -10,6 +10,7 @@ import rm5 from "../assets/images/rm5.jpeg"
 
 const HomePage = () => {
   return (
+    // ini bagian nav
     <div className="homepage pb-10">
       <div className="container mx-auto px-4 ">
         <div className="hero grid md:grid-cols-2 grid-cols-1 items-center pt-32 gap-20">
